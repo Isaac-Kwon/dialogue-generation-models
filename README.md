@@ -1,7 +1,5 @@
 # Dialogue Generation Models
 
-![Lint and Format Python](https://github.com/AI-ADUR-KR/dialogue-generation-models/workflows/Lint%20and%20Format%20Python/badge.svg)
-
 pingpong-ai/dialogue-generation-models의 포크입니다. 
 
 ## Introduction
