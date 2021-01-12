@@ -1,12 +1,14 @@
 # Dialogue Generation Models
 
-![Lint and Format Python](https://github.com/pingpong-ai/dialogue-generation-models/workflows/Lint%20and%20Format%20Python/badge.svg)
+![Lint and Format Python](https://github.com/AI-ADUR-KR/dialogue-generation-models/workflows/Lint%20and%20Format%20Python/badge.svg)
+
+pingpong-ai/dialogue-generation-models의 포크입니다. 
 
 ## Introduction
 
 * This is a repository of pretrained dialogue generation models (GPT-2 and Meena) of Pingpong, ScatterLab.
-* You can refer to our [blog post](https://blog.pingpong.us/generation-model/) for detailed pre-training processes and experiment results.
-* Check our [Korean demo](https://pingpong.us/ko/generation) and [Japanese demo](https://pingpong.us/jp/generation) for the chatting experience.
+* You may refer to [blog post](https://blog.pingpong.us/generation-model/) for detailed pre-training processes and experiment results.
+* Check [Korean demo](https://pingpong.us/ko/generation) and [Japanese demo](https://pingpong.us/jp/generation) for the chatting experience.
 
 ## Downloads
 
@@ -81,6 +83,11 @@ PYTHONPATH=. python examples/run_meena.py \
 
 The pretrained models and the codes in this repository are distributed under the terms of the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
+## Related Articles
+
+[한국어로 대화하는 생성 모델의 학습을 위한 여정](https://blog.pingpong.us/generation-model/)
+[TensorFlow TPU 학습 101(https://blog.pingpong.us/tpu-with-tf2-and-gcp/)
+[구글의 Open-Domain 챗봇 'Meena' 논문 리뷰](https://blog.pingpong.us/meena-presentation/)
 ## Citation
 
 If you use our software for research, please cite:
