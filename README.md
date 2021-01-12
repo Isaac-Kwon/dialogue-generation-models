@@ -10,7 +10,7 @@ pingpong-ai/dialogue-generation-models의 포크입니다.
 
 ## Downloads
 
-* You can download the pretrained GPT-2 and Meena models from [Release page](https://github.com/pingpong-ai/dialogue-generation-models/releases/tag/v1.0).
+* You can download the pretrained GPT-2 and Meena models from [follwing link](https://github.com/AI-ADUR_KR/dialogue-generation-models/releases/tag/v1.0.0).
     - **`base_gpt_trained_on_dialogue_data_kr.pth`**
         - 한국어 대화 데이터로만 학습한 base size GPT-2
     - **`large_gpt_trained_on_dialogue_data_kr.pth`**
