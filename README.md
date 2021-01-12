@@ -84,7 +84,9 @@ The pretrained models and the codes in this repository are distributed under the
 ## Related Articles
 
 [한국어로 대화하는 생성 모델의 학습을 위한 여정](https://blog.pingpong.us/generation-model/)
-[TensorFlow TPU 학습 101(https://blog.pingpong.us/tpu-with-tf2-and-gcp/)
+
+[TensorFlow TPU 학습 101](https://blog.pingpong.us/tpu-with-tf2-and-gcp/)
+
 [구글의 Open-Domain 챗봇 'Meena' 논문 리뷰](https://blog.pingpong.us/meena-presentation/)
 ## Citation
 
